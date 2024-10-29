@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @root-hk
 - 👀 I’m interested in web-development and coding.
-- 🌱 I’m currently learning react.
-- 💞️ I’m looking to collaborate on projects using react.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on projects on React.
 - 📫 I can be reached via email.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: We are all closures
